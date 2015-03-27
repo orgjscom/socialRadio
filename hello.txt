@@ -1,0 +1,19 @@
+v 3.62  % sent      num_bytes_sent  360448  out of  9958417  ----------
+3.95  % sent      num_bytes_sent  393216  out of  9958417  ----------
+4.28  % sent      num_bytes_sent  425984  out of  9958417  ----------
+4.61  % sent      num_bytes_sent  458752  out of  9958417  ----------
+4.94  % sent      num_bytes_sent  491520  out of  9958417  ----------
+5.26  % sent      num_bytes_sent  524288  out of  9958417  ----------
+^CЗавершить выполsvknjksvkjbskbvbskdjvb 3.62  % sent      num_bytes_sent  360448  out of  9958417  ----------
+3.95  % sent      num_bytes_sent  393216  out of  9958417  ----------
+4.28  % sent      num_bytes_sent  425984  out of  9958417  ----------
+4.61  % sent      num_bytes_sent  458752  out of  9958417  ----------
+4.94  % sent      num_bytes_sent  491520  out of  9958417  ----------
+5.26  % sent      num_bytes_sent  524288  out of  9958417  ----------
+^CЗавершить выполsvknjksvkjbskbvbskdjvb 3.62  % sent      num_bytes_sent  360448  out of  9958417  ----------
+3.95  % sent      num_bytes_sent  393216  out of  9958417  ----------
+4.28  % sent      num_bytes_sent  425984  out of  9958417  ----------
+4.61  % sent      num_bytes_sent  458752  out of  9958417  ----------
+4.94  % sent      num_bytes_sent  491520  out of  9958417  ----------
+5.26  % sent      num_bytes_sent  524288  out of  9958417  ----------
+^CЗавершить выполsvknjksvkjbskbvbskdjvb
